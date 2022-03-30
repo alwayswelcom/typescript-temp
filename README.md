@@ -52,4 +52,4 @@ npm run generate #=> Then distribute /dist
 
 ## Miss the old way of this repository?
 
-That still alives on [master](https://github.com/nuxt-community/typescript-template/tree/master) branch.
+That still alives on [master](https://github.com/alwayswelcom/typescript-temp/tree/master) branch.
