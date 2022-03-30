@@ -12,7 +12,7 @@ $ npm install -g @vue/cli-init
 ```
 
 ``` bash
-$ vue init "nuxt-community/typescript-template#master" my-project
+$ vue init "alwayswelcom/typescript-temp" my-project
 $ cd my-project
 # install dependencies
 $ npm install # Or yarn install
